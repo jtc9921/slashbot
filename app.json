@@ -1,0 +1,10 @@
+{
+  "name": "slashbot",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
